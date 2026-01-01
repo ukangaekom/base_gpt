@@ -25,7 +25,7 @@ We are simply building the next performance ready AI infrastructure on Base used
 ## Technicals
 
 <p align="center">
-  <img src="./public/SOA.jpg" alt="Agent Image" width="800" style="max-width: 100%;">
+  <img src="https://github.com/ukangaekom/orcinus/blob/main/public/SOA.jpg" alt="Agent Image" width="800" style="max-width: 100%;">
 </p>
 The Archictecutral diagram describe the process of data flow of data from request to response in Sei Orcinus. The following are the meaning of the abbreviations in the architecture.
 
@@ -94,36 +94,9 @@ BaseGPT api operates onchain and off-chain. Apart from fetching off-chain market
 
 
 ## Demo
-The following images show case a real demo test of using sei orcinus agentic api.
-
-1. **Getting a specific token balance for a wallet**
-<p align="center">
-  <img src="./public/sei_orcinus_test_01.png" alt="Agent Image" width="800" style="max-width: 100%;">
-</p>
 
 
-2. **Getting the real-time market price or capitalization of a token or multiple tokens**
-<p align="center">
-  <img src="./public/sei_orcinus_test_02.png" alt="Agent Image" width="800" style="max-width: 100%;">
-</p>
-
-3. **Knowing what a particular address is on Sei Mainnet Network** 
-<p align="center">
-  <img src="./public/sei_orcinus_test.png" alt="Agent Image" width="800" style="max-width: 100%;">
-</p>
-
-4. **Getting balance of an address or multiple address**
-<p align="center">
-  <img src="./public/sei_orcinus_test_advanced_test.png" alt="Agent Image" width="800" style="max-width: 100%;">
-</p>
-
-
-### Advanced Future
-
-1. **Ability to Multi Task**
-<p align="center">
-  <img src="./public/sei_orcinus_multitasking.png" alt="Agent Image" width="800" style="max-width: 100%;">
-</p>
+## Advanced Features
 
 
 ## Testing
