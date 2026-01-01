@@ -1,4 +1,4 @@
-# Base GPT 🐋
+# Base GPT 
 
 
 
