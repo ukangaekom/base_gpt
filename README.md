@@ -96,6 +96,17 @@ BaseGPT api operates onchain and off-chain. Apart from fetching off-chain market
 ## Demo
 
 
+<p align="center">
+  <img src="./public/base_gpt test.png" alt="Agent Image" width="800" style="max-width: 100%;">
+</p>
+
+
+2. **Getting the real-time market price or capitalization of a token or multiple tokens**
+<p align="center">
+  <img src="./public/base_gpt test 2.png" alt="Agent Image" width="800" style="max-width: 100%;">
+</p>
+
+
 ## Advanced Features
 
 
